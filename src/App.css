@@ -1,0 +1,79 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+.Navbar {
+  height: 50px;
+  background-color: rgb(99, 34, 105);
+  display: flex;
+  align-items: center;
+  padding: 0 4em;
+  box-sizing: border-box;
+  justify-content: center;
+  color: white;
+}
+.Navbar_brand {
+  font-weight: bolder;
+  font-size: 1.2em;
+}
+.Container {
+  flex-grow: 1;
+  display: flex;
+  overflow: hidden;
+}
+.Output {
+  flex: 1;
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+}
+.Output form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2em;
+  margin-left: 2em;
+}
+.Output form .input_holder {
+  display: flex;
+  align-items: center;
+  margin: 1em;
+}
+.Output form .title {
+  font-weight: bolder;
+  font-size: 2em;
+  margin-bottom: 0.3em;
+}
+.Output form .subtitle {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-left: 0.4em;
+}
+.Output form .input_holder label {
+  margin-right: 2em;
+}
+.Output .error {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.Input {
+  box-sizing: border-box;
+  flex: 1;
+}
+.Input textarea {
+  border: none;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(41, 18, 18);
+  color: white;
+  padding: 1em;
+}
