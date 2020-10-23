@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GrootanFrontend/static/css/main.23bd8ef5.chunk.css",
+    "main.js": "/GrootanFrontend/static/js/main.ecf8fac6.chunk.js",
+    "main.js.map": "/GrootanFrontend/static/js/main.ecf8fac6.chunk.js.map",
+    "runtime-main.js": "/GrootanFrontend/static/js/runtime-main.aa67c2cd.js",
+    "runtime-main.js.map": "/GrootanFrontend/static/js/runtime-main.aa67c2cd.js.map",
+    "static/js/2.e15c7ae8.chunk.js": "/GrootanFrontend/static/js/2.e15c7ae8.chunk.js",
+    "static/js/2.e15c7ae8.chunk.js.map": "/GrootanFrontend/static/js/2.e15c7ae8.chunk.js.map",
+    "index.html": "/GrootanFrontend/index.html",
+    "precache-manifest.e48c897cfbbdec75038bde94d61dba6f.js": "/GrootanFrontend/precache-manifest.e48c897cfbbdec75038bde94d61dba6f.js",
+    "service-worker.js": "/GrootanFrontend/service-worker.js",
+    "static/css/main.23bd8ef5.chunk.css.map": "/GrootanFrontend/static/css/main.23bd8ef5.chunk.css.map",
+    "static/js/2.e15c7ae8.chunk.js.LICENSE.txt": "/GrootanFrontend/static/js/2.e15c7ae8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/GrootanFrontend/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa67c2cd.js",
+    "static/js/2.e15c7ae8.chunk.js",
+    "static/css/main.23bd8ef5.chunk.css",
+    "static/js/main.ecf8fac6.chunk.js"
+  ]
+}
